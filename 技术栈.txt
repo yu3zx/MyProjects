@@ -3,3 +3,5 @@ IPD
 依赖注入，切片编程，抽象接口化，工厂模式，反射，JSON序列化反序列化
 
 MySQL软删除
+
+ANTS Performance Profiler查找内存泄漏问题
